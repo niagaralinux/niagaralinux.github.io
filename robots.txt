@@ -1,3 +1,0 @@
-User-agent: *
-
-http://niagaralinux.org/sitemap.xml
