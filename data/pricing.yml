@@ -1,0 +1,55 @@
+---
+enable: true
+title: "Simple pricing for everyone"
+subtitle: >
+          Whether you're looking for a Web-Hosting
+           we've got an option for everyone
+buttonTarget: "contact"
+itemPrices:
+  - packcage: "Monthly"
+    description: >
+                WordPress Hosting Basic Plan
+                Dedicated Linux Server (VPS)
+                Regions: US | Germany | Finland
+    price: 5
+    badge: 
+  - packcage: "Monthly"
+    description: >
+                WordPress Hosting Standard Plan
+                Dedicated Linux Server (VPS)
+                OpenSource Analystic Platform
+    price: 10
+    badge: popular
+  - packcage: "Monthly"
+    description: >
+                WordPress Hostigng Advanced Plan
+                Dedicated Linux Server (VPS) 
+                OpenSource Analystic + Backup
+    price: 15
+    badge: 
+  - packcage: "Monthly"
+    description: >
+                Backing up Hosting Plan  50G
+                Encryption Support for
+                Offsite Backup
+                Regions: EU | Germany | Finland
+    price: 5
+    badge: 
+  - packcage: "Monthly"
+    description: >
+                Backing up Hosting Plan 100G
+                Encryption support for
+                Offsite Backup
+                Regions: EU | Germany | Finland
+
+    price: 10
+    badge: popular
+  - packcage: "Monthly"
+    description: >
+                Backing up Hosting Plan 200G
+                Encryption support for
+                Offsite Backup
+                Regions: EU | Germany | Finland
+    price: 15
+    badge: 
+---

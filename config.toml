@@ -1,0 +1,97 @@
+baseURL = 'https://www.niagaralinux.ca'
+languageCode = 'en-us'
+paginate = 6
+theme= "coHub"
+title = 'Niagara Linux'
+ 
+[Menu]
+  # Main Menu
+  [[menu.Main]]
+  name = "Cases"
+  url= "#gallery"
+  weight = 1
+  [[menu.Main]]
+  name = "Feature"
+  url= "#service"
+  weight = 1
+  [[menu.Main]]
+  name = "About"
+  url= "/about/"
+  weight = 3
+  [[menu.Main]]
+  name = "Blog"
+  url= "#blog"
+  weight = 4
+  [[menu.Main]]
+  name = "Pricing"
+  url= "#pricing"
+  weight = 5
+  [[menu.Main]]
+  name = "FAQ"
+  url= "#faq"
+  weight = 6
+  [[menu.Main]]
+  name = "Contact"
+  url= "/contact/"
+  weight = 7
+
+  # Sitemap Menu
+  [[menu.sitemap]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 1
+  [[menu.sitemap]]
+  name = "Terms"
+  url = "/terms/"
+  weight = 2
+
+[params]
+  aboutPageURL = "blog"
+  contactLink = "contact"
+  copyright = "© {year} <a href=\"https://niagaralinux.ca\" target=\"_blank\">Niagara Linux </a>"
+  fabFormURL =  "https://fabform.io/f/u00kv3-"
+  googleAnalytics = "G-JZ95FEWF9K"
+  logo = "images/logo.png"
+  footerlogo = "images/logo.png"
+  footerDescription = "Experting in Professional Data Sovereignty, Self-hosted, and On-Prem Networking Solutions."
+
+  [params.address]
+  address = "327 Scott St. <br>  St Catharines, ON L2N 1J7"
+  email = "hello [at] niagaralinux [dot] ca"
+  openingDesc = "Give us a call or drop by anytime, we endeavour to answer all enquiries within 24 hours on business days."
+  openingHours = "We are open from 8:30am — 4:30pm week days."
+  phone = "289-479-5655"
+
+  [params.map]
+  APIkey = "AIzaSyC9rV6yesIygoVKTD6QLf_iCa9eiIIHqZ0"
+  latitude = "45.4502528"
+  longitude = "-122.783407"
+  pinImage = "images/pin.png"
+
+  # Socail icons
+  [[params.social]]
+  icon = "ti-facebook"
+  url = "https://www.facebook.com/"
+  weight = 1
+  [[params.social]]
+  icon = "ti-twitter-alt"
+  url = "https://twitter.com/"
+  weight = 2
+  [[params.social]]
+  icon = "ti-dribbble"
+  url = "https://dribbble.com/"
+  weight = 3
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.instagram.com/"
+  weight = 4
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.telegram.com/"
+  weight = 5
+  [[params.social]]
+  icon = "ti-instagram"
+  url = "https://www.element.com/"
+  weight = 6
+  
+  

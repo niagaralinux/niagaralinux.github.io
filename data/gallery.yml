@@ -1,0 +1,13 @@
+---
+title : "Take a look at our Project cases"
+enable: true
+subtitle: >
+        We are providing On-Prem networking solutions, including Server Racks, Routing & Switching, Wireless networking, Firewall systems, and Security Cameras. 
+        We are also developing, operating and hosting web sites for our clients. 
+        All our effort is to help our clients off the hook from the Big Tech.   
+galleryImage: 
+ - image: "images/gallery/networking.jpg"
+ - image: "images/gallery/debian.jpg"
+ - image: "images/gallery/raspberrypi.jpg"
+ - image: "images/gallery/selfhosting2.jpg"
+---

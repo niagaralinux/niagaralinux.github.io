@@ -1,0 +1,32 @@
+---
+enable: true
+title: "Why Choose us?"
+subtitle: >
+          We enable people and businesses to work with appropriate solutions what they need, 
+          paying the Cloud subscription will become optional and not necessary.
+services:
+  - name: "Simplicity"
+    description: >
+                Keep It Straight and Simple in systems design and elimiate the complexities from mantenance.
+    icon: "ti-view-grid"
+  - name: "Minimalism"
+    description: >
+                Decrease dependence on systems modules, retain fewer components, and minimize the attach surface.
+    icon: "ti-infinite"
+  - name: "Openness"
+    description: >
+                Advocating Open-Source software and bring benefits for our clients. No Vonder-locking issue.
+    icon: "ti-help-alt"
+  - name: "Privacy Respected"
+    description: >
+                We are selecting network manufacturers and Open-Source projects which are Privacy Respected in the first place.
+    icon: "ti-lock"
+  - name: "Local community Support"
+    description: >
+                We try our best to support local communies and medium-size & small suppliers instead of the Big Tech.
+    icon: "ti-credit-card"
+  - name: "e-waste recycling"
+    description: >
+                Helping our clients to evaulate and reuse their old computer hardware with less resource required Linux systems.
+    icon: "ti-image"
+---

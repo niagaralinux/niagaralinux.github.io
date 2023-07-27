@@ -1,0 +1,52 @@
+---
+enable: true
+title: "Frequently Asked Questions"
+faq:
+  - question: "Q. Is Linux good engough for my comercial usage?"
+    answer: >
+            Linux is 30 years old; it has been widely used for commercial production environments.
+            Various industries have adopted Linux as their major productional Operating System, 
+            which include Cloud computing, Computer software, Telecom & communication, energy, 
+            reselling, entertainment, education and others.
+            So, it is mature enough for business purposes.
+  - question: "Q. Where can I find out Linux and get them for free?"
+    answer: >
+            Commercial distributions are like RedHat, SUSE, and Ubuntu. 
+            You may need register an account for getting the copies. 
+            Plenty of Community distributions are also highly recommended. 
+            In fact, we prefer them for our projects. They're Debian, Fedora, OpenSUSE, etc. Without registration you can get them for free at all.
+  - question: "Q. How can I make a change to existing computer networking / cloud enviorment with a new Linux system?"
+    answer: >
+            We suggest you get support from Linux communties online. 
+            You can also consult us before you make any change request.
+            We provde a 15 mintues free consultancy to our new clients.
+  - question: "Q. What are computer hardware requirements for a Linux server?"
+    answer: >
+            It depands on your use case and the accessing traffic.
+            In gneral, without Graphical User Interface, Linux Server can use hardware resources more effectly than Windows.
+            For example, a small size of Web site just needs 2 core/2gb/20 gb HDD for the Linux Web Server.
+  - question: "Q. I know the best Linux use case is for Servers. How about as a Desktop OS?"
+    answer: >
+            The most Linux is running as servers OS in the reality world, and it runs in everywhere, 
+            yet people haven't recognized that. Most new computers are having issues for hardware drivers. 
+            Especially, for WIFI adapters, Bluetooth, and GPUs.
+            Fortunately, we have seen they are many Linux-Ready computers. 
+            You can search “Ubuntu Certified computers”. You can also find there are many Linux computer manufactures. The most brands you can find in North American are Frameworks, Purity, and System 76.
+            Big corporations are using Linux as their desktop OS in some scenarios. That's why we can see those commercial Linux products are in the market. 
+            Like Red Hat Enterprise Linux Workstation and SUSE Linux Enterprise Desktop, as well as Ubuntu Desktop.  
+  - question: "Q. We want to buy a software for automating our work, and it doesn't support one-time payment. So, we have to pay subscriptions."
+    answer: > 
+            We think many business owners are facing this issue. Nowadays, most software has switched to subscription-mode from the traditional one-time payment mode. That is why software manufactures are pushing their clients switch to their cloud-side products from a client-side program. 
+            You may just need a few features of the software. But you must pay for all features or over-priced modules. We may help you for this gap. 
+            Their Open-source alternative might be sufficient, which can be hosted by the manufactures or selfhosted by yourself. We will help you to evaluate your requirement and provide solutions. We can even wring code to help, if it will help you decreasing your total own cost (TCO). We have helped our clients to smooth their workflow by coding successfully. 
+  - question: "Q. Do you only do Linux services and not for Windows, macOS and others?"
+    answer: >
+            Our senior engineering team members are qualified Microsoft Certified Engineers and Linux Certified Engineers. 
+            We understand in a commercial production environment, knowing Microsoft and other systems are necessary. 
+            So, we can work and integrate different systems and deliver our solutions with the existing systems more efficiently. 
+            In fact, we are also researching and developing BSD Unix-like solutions, trying to provide cost-effective Edge Firewall systems as an alternative to our clients 
+            instead of over-priced business firewall systems and the subscriptions. 
+  - question: "Q. We're a Windows-shop IT company, can we hire you as our sub-contractor for our Windows and Linux hybrid projects?"
+    answer: > 
+            Yes, we're glad to help you. Our Linux specialized skills may help you delivering your solutions faster. 
+---
