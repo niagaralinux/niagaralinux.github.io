@@ -1,8 +1,11 @@
 ---
 enable: true
 testimonial:
-  - author: "TechCrunch"
-    testimonialDetails: "Behind every great product, there is a great mind"
-  - author: "Yarnban"
-    testimonialDetails: "Behind every great product, there is a great mind"
+  - author: "Hero Dog Treats"
+    testimonialDetails: "Niagara Linux also solved our previous concerns about private datastored on the cloud"
+  - author: "Insight Biblical Counselling"
+    testimonialDetails: "Johnny’s work is always timely and complete. We have appreciated his ongoing help and
+support since officially opening for business in January."
+  - author: "Clarity Pregnancy Options "
+    testimonialDetails: "Mr. Tao has been supporting Clarity Pregnancy Options in a professional capacity offering his IT expertise to our non-profit, by assisting in the set-up, maintenance and purchasing of our technology."
 ---

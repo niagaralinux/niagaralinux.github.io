@@ -2,8 +2,11 @@
 enable: true
 title: "Valuable Feedback"
 feedback: >
-          ‘We achieved a cost-savings project while achieving cultural transformation to collaborate better together.
-            Our innovation lab brings ideas, skills and importantly, individuals together to enable innovation.’
-feedbackAuthor: "FRANCIS VAN PARYS, PRESIDENT AND CEO, GE HEALTHCARE KOREA"
+           ‘Mr. Tao has provided and continues to provide advanced technical expertise to our firm, specifically in the area of networking and application deployment. Mr. Tao has a
+           very sophisticated understanding of Linux Systems and is used as a support for an
+           existing contracted technical support staff when more advanced expertise is
+           required. Furthermore, Mr. Tao assists with questions relating to network and
+           application security.’
+feedbackAuthor: "KR DAVIDSON, LAWYER, K.R. DAVIDSON PROFESSIONAL CORPORATION"
 backgroundImage: images/testimonial-bg.jpg
 ---
