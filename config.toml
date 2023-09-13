@@ -1,4 +1,4 @@
-baseURL = 'https://www.niagaralinux.ca'
+baseURL = 'https://www.niagaralinux.net'
 languageCode = 'en-us'
 paginate = 6
 theme= "coHub"
